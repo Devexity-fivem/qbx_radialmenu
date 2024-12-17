@@ -243,7 +243,7 @@ return {
                         id = 'statusCheck',
                         icon = 'heart-pulse',
                         label = 'Check Health Status',
-                        event = 'hospital:client:CheckStatus',
+                        event = 'police:client:CheckStatus',
                     },
                     {
                         id = 'escort',
